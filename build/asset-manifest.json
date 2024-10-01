@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d855227.css",
+    "main.js": "/static/js/main.20b40863.js",
+    "static/js/453.0e392faa.chunk.js": "/static/js/453.0e392faa.chunk.js",
+    "static/media/Rfc-removebg-preview.png": "/static/media/Rfc-removebg-preview.b2268df18369e21dc99b.png",
+    "index.html": "/index.html",
+    "main.3d855227.css.map": "/static/css/main.3d855227.css.map",
+    "main.20b40863.js.map": "/static/js/main.20b40863.js.map",
+    "453.0e392faa.chunk.js.map": "/static/js/453.0e392faa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d855227.css",
+    "static/js/main.20b40863.js"
+  ]
+}
